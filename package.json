@@ -15,14 +15,6 @@
     "promise",
     "PromiseTimeout"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jack-h2ml/betterTimeout.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jack-h2ml/betterTimeout/issues"
-  },
-  "homepage": "https://github.com/jack-h2ml/betterTimeout#readme",
   "devDependencies": {
     "@babel/cli": "^7.20.7",
     "@babel/core": "^7.20.12",
@@ -33,5 +25,13 @@
   "dependencies": {
     "@h2ml/bettertimeout": "^1.0.3",
     "core-js": "^3.28.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack-h2ml/fetchDelay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jack-h2ml/fetchDelay/issues"
+  },
+  "homepage": "https://github.com/jack-h2ml/fetchDelay#readme"
 }
