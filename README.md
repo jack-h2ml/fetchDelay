@@ -40,7 +40,7 @@ import { fetchDelay } from '@h2ml/fetchdelay';
 <a name="module_@h2ml/fetchreplace"></a>
 
 ## @h2ml/fetchreplace
-**Version**: 1.0.0  
+**Version**: 1.0.3  
 **Author**: Jack Notman  
 <a name="module_@h2ml/fetchreplace.fetchDelay"></a>
 
