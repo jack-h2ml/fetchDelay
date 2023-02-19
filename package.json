@@ -1,7 +1,7 @@
 {
   "name": "@h2ml/fetchdelay",
-  "version": "1.0.0",
-  "description": "A Promise based library for better timeouts",
+  "version": "1.0.1",
+  "description": "Wrapper function for fetch() which allows for better control over timing.",
   "main": "main.js",
   "scripts": {
     "build": "babel ./src/main.js --out-file ./main.js",
