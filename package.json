@@ -1,6 +1,6 @@
 {
   "name": "@h2ml/fetchdelay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wrapper function for fetch() which allows for better control over timing.",
   "main": "main.js",
   "scripts": {
@@ -10,10 +10,9 @@
   "author": "Jack Notman",
   "license": "MIT",
   "keywords": [
+	"fetch",
     "timeout",
-    "setTimeout",
-    "promise",
-    "PromiseTimeout"
+    "promise"
   ],
   "devDependencies": {
     "@babel/cli": "^7.20.7",
