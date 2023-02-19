@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# dependency directories
+node_modules/
+
+# npm
+.npm
+
+# eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# mac ds store files
+.DS_Store
+
+# editor config
+.editorconfig
+
+# other
+*.tgz
+*.zip
