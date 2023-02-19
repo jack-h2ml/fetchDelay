@@ -1,6 +1,6 @@
 {
   "name": "@h2ml/fetchdelay",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Wrapper function for fetch() which allows for better control over timing.",
   "main": "main.js",
   "scripts": {
