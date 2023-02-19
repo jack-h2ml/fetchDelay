@@ -19,8 +19,8 @@ import { fetchDelay } from '@h2ml/fetchdelay';
 			minDelay: 3000,
 			maxDelay: 5000
 		});
-		const json1 = await res.json();
-		console.log(json);
+		const json1 = await res1.json();
+		console.log(json1);
 
 		// This will reject, as the requested resource 
 		// will not resolve until after 6 seconds.
@@ -28,8 +28,8 @@ import { fetchDelay } from '@h2ml/fetchdelay';
 			minDelay: 3000,
 			maxDelay: 5000
 		});
-		const json2 = await res.json(); // This won't get called.
-		console.log(json);              // Neither will this.
+		const json2 = await res2.json(); // This won't get called.
+		console.log(json)2;              // Neither will this.
 	} catch (err) {
 		// Catch-all rejections.
 		console.dir(err);
